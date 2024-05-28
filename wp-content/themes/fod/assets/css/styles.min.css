@@ -430,10 +430,10 @@ textarea {
 
 .site-logo-link img,
 .custom-logo-link img {
-  width: 100%;
+  width: 140%;
   height: auto;
   display: block;
-  padding-bottom: 30px;
+  
 }
 
 .header-menu {
